@@ -1,0 +1,14 @@
+.picture{
+    transition:transform.2s;
+    border:10px solid #4DD0E1;   
+}
+.picture:hover{
+    transform: scale(0.9);
+}
+.cars{
+    transition:transform.2s;
+    border:10px solid #4DD0E1;   
+}
+.cars:hover{
+    transform: scale(0.9);
+}
